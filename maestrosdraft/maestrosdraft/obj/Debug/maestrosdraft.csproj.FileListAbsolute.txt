@@ -1,0 +1,13 @@
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\bin\Debug\maestrosdraft.exe.config
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\bin\Debug\maestrosdraft.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\bin\Debug\maestrosdraft.pdb
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.csproj.AssemblyReference.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.csproj.SuggestedBindingRedirects.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.Form1.resources
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.Properties.Resources.resources
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.csproj.GenerateResource.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.csproj.CoreCompileInputs.cache
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.exe
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.pdb
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.veresgistros.resources
+C:\Users\Izzy\OneDrive\college\algoritmos\maestrosdraft\maestrosdraft\obj\Debug\maestrosdraft.gradescale.resources
